@@ -1,0 +1,4 @@
+shopId 506751
+shopArticleId 538350
+test_card = 1111 1111 1111 1026, 12/22, CVC 000
+U_Kassa_Test = 381764678:TEST:26702
